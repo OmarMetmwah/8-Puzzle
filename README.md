@@ -33,11 +33,13 @@ For ***A**** algorithm we use **Priority-Queue** as data type for frontier list.
 
 
 **==>DFS**
+
 !['1'](docs/2.png)
 !['1'](docs/3.png)
 
 
 **==>A***
+
 !['1'](docs/4.png)
 !['1'](docs/5.png)
 
